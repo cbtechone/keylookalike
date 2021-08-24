@@ -473,30 +473,3 @@ while k == 0:
         ky.write(str(lowz))
     if ky.is_pressed("`"):
         raise SystemExit
-# import keyboard
-
-# while a >= 3 and a <= 50:
-#   print(a)
-#   a = a+1
-#   time.sleep(.01)
-# a = 0
-
-# while a == 0:
-#    if keyboard.is_pressed("m"):
-#        print("\b")
-#        keyboard.press("u")
-#        a = 1
-#   menu = input("PLease select option \n"
-#               "1.\n"
-#               "2.\n"
-#               "3.\n")
-#  if menu == "1":
-#      print("1")
-#  elif menu == "2":
-#     print("2")
-#  elif menu == "3":
-#       print("3")
-
-#   else:
-#   a = 1
-#     print("no option selected")
